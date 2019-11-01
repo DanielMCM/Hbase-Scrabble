@@ -9,7 +9,7 @@ This repository contains and example of HBase use based on an Assignment of the 
 
 # Execution 
 
- 1. Compile the project using from root
+ 1. Compile the project using Maven from root
  
  ```
  mvn clean install
